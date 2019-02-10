@@ -1,5 +1,5 @@
 # zspiro
-Vintage eyecandy along the lines of a spirograph
+Vintage eyecandy along the lines of a spirograph -- but different.
 
 It starts out looking like a spirograph, but after a while it takes on a character all it's own. Some very cool geometry if you ask me.
 
